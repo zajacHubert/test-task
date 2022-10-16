@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/test-task/static/css/main.11673977.css",
+    "main.js": "/test-task/static/js/main.9000ba8f.js",
+    "static/media/CarAmazed.png": "/test-task/static/media/CarAmazed.90dbfa4412de44cd2242.png",
+    "static/media/Background.png": "/test-task/static/media/Background.5c94c0f6c1d88ae7f27b.png",
+    "static/media/Map.png": "/test-task/static/media/Map.65f569e76c7a6eba4b08.png",
+    "static/media/CarAbout.png": "/test-task/static/media/CarAbout.05b399ead585c74d55ef.png",
+    "static/media/Cars3.png": "/test-task/static/media/Cars3.a4e1440f6b7483447967.png",
+    "static/media/Cars6.png": "/test-task/static/media/Cars6.7121cf1bf1aa367d8541.png",
+    "static/media/Cars7.png": "/test-task/static/media/Cars7.d702c0cf7ac78ccdcaa7.png",
+    "static/media/Cars8.png": "/test-task/static/media/Cars8.616f3e6bb7fd7b89a369.png",
+    "static/media/Cars2.png": "/test-task/static/media/Cars2.443072a0dc94782fca2b.png",
+    "static/media/Cars4.png": "/test-task/static/media/Cars4.570ade53377304a6f4ef.png",
+    "static/media/Cars.png": "/test-task/static/media/Cars.d9bd4b72faa5ebf355f5.png",
+    "static/media/Card.png": "/test-task/static/media/Card.3d6684ef1c3f262496a7.png",
+    "static/media/Card2.png": "/test-task/static/media/Card2.5fdbc922b33f57670a89.png",
+    "static/media/Card3.png": "/test-task/static/media/Card3.ff2caeab56da9f60d374.png",
+    "static/media/Cars9.png": "/test-task/static/media/Cars9.a7776fe1981f66ff1d95.png",
+    "static/media/Cars5.png": "/test-task/static/media/Cars5.da29c2ab3a400236b4ac.png",
+    "index.html": "/test-task/index.html",
+    "main.11673977.css.map": "/test-task/static/css/main.11673977.css.map",
+    "main.9000ba8f.js.map": "/test-task/static/js/main.9000ba8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11673977.css",
+    "static/js/main.9000ba8f.js"
+  ]
+}
