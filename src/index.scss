@@ -1,5 +1,12 @@
-@import url('http://fonts.cdnfonts.com/css/american-captain-2');
-@import url('http://fonts.cdnfonts.com/css/sf-pro-display');
+@font-face {
+  font-family: 'American Captain';
+  src: url('./assets/fonts/american-captain.ttf');
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('./assets/fonts/FontsFree-Net-SFProDisplay-Regular.ttf');
+}
 
 * {
   margin: 0;
